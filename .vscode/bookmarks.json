@@ -1,0 +1,34 @@
+{
+	"files": [
+		{
+			"path": "packages/taro-weapp/src/create-component.js",
+			"bookmarks": [
+				{
+					"line": 313,
+					"column": 15,
+					"label": "Taro.createComponent: 用户组件转wx组件"
+				}
+			]
+		},
+		{
+			"path": "packages/taro-weapp/src/util.js",
+			"bookmarks": [
+				{
+					"line": 155,
+					"column": 10,
+					"label": "Taro Diff:  基本思想是把属性平铺，仅传递修改部分"
+				}
+			]
+		},
+		{
+			"path": "packages/taro-weapp/src/lifecycle.js",
+			"bookmarks": [
+				{
+					"line": 138,
+					"column": 7,
+					"label": "Taro.doUpdate: 更新数据"
+				}
+			]
+		}
+	]
+}

@@ -136,6 +136,7 @@ function injectContextType (component) {
   }
 }
 
+// 更新数据
 function doUpdate (component, prevProps, prevState) {
   const { state, props = {} } = component
   let data = state || {}
